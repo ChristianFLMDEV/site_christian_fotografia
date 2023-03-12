@@ -80,3 +80,10 @@ main > div > p > img{
     width: 100%;
     margin: auto;
 }
+
+main > div > p{
+    font-size: 20px;
+    text-align: justify;
+    padding: 25px;
+    background-color: white;
+}
