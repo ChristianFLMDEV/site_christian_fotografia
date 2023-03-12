@@ -72,7 +72,7 @@ main{
 #main_01{
 min-width: 350px;
 max-width: 900px;
-background-image: url(imagens/minhasfotos/IMG_6466.jpg);
+background-image: url(imagens/minhasfotos/IMG_6458.jpg);
 }
 
 main > div > p > img{
@@ -86,4 +86,5 @@ main > div > p{
     text-align: justify;
     padding: 25px;
     background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.082) 4px 4px 6px;
 }
