@@ -21,11 +21,19 @@ body{
 header{
     background-color: var(--cor01);
 }
-div > h1 > img{
+
+header > div > h1{
+    padding: 20px;
+    font-size: 5em;
+    text-align: center;
+    color: var(--cor04);
+}
+
+#chris_logo{
+    margin: auto;
+    display: block;
     width: 300px;
     padding: 20px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 header > div > p{
@@ -34,8 +42,6 @@ header > div > p{
     font-size: 20px;
     background-color: rgb(0, 0, 0);
 }
-
-
 
 header > div > p > a{
     text-decoration: none;
@@ -59,6 +65,8 @@ main{
     background-size: 100%;
     margin: 0px auto 20px auto;
     background-repeat: no-repeat;
+    min-width: 350px;
+    max-width: 900px;
 }
 
 #main_01{
