@@ -49,7 +49,6 @@ header > div > h1{
     position: fixed;
     right: 60px;
     bottom: 15px;
-    background-color: rgb(255, 255, 255);
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.089);
     border-radius: 10px;
 }
